@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iritaivanova
-- 👀 I’m interested in Java and Python programming languages.
-- 🌱 I’m currently learning about Software Quality Testing
+- 👀 I’m interested in html, css, JS and Python programming languages.
+- 🌱 I’m currently learning about html, css and JS.
 - 💞️ I’m looking to collaborate on shearing my programming learning process.
 - 📫 How to reach me  - iritaivanova5@gmail.com
 
